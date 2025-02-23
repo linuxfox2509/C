@@ -10,3 +10,5 @@ int main() {
     printf("%d\n", i);
     }
 }
+
+//break and continue also work for while loops
